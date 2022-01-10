@@ -1,0 +1,7 @@
+Backend:
+localhost:8080/team/Chennai Super Kings
+localhost:8080/team/Chennai Super Kings/matches?year=2020
+
+
+Front end:
+localhost:3000/teams/Delhi Capitals/matches/2020
