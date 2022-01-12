@@ -1,8 +1,14 @@
 Backend:
+http://localhost:8080/team
 localhost:8080/team/Chennai Super Kings
 localhost:8080/team/Chennai Super Kings/matches?year=2020
 
 
 Front end:
+http://localhost:3000/team
 localhost:3000/teams/Delhi Capitals
 localhost:3000/teams/Delhi Capitals/matches/2020
+
+
+REACT_APP_DATA_START_YEAR=2008
+REACT_APP_DATA_END_YEAR=2020
